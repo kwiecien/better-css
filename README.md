@@ -1,10 +1,15 @@
-# A Better CSS: LESS and SASS
+# CSS
+
+CSS3 and SASS examples from Pluralsight courses:
+
+- https://app.pluralsight.com/library/courses/better-css/
+- https://app.pluralsight.com/library/courses/css3-in-depth/
+
+## A Better CSS: LESS and SASS
 
 LESS and SASS can style sheets more readable, maintainable and easier to write.
 
-- https://app.pluralsight.com/library/courses/better-css/
-
-# Examples
+### Examples
 
 ```scss
 // mixins.scss
@@ -67,3 +72,10 @@ h1 {
   }
 }
 ```
+
+## CSS3 In-Depth
+
+Learn how deep the CSS3 rabbit hole goes in this jam-packed course with CSS
+luminary Estelle Weyl. Estelle dives deep into the various components of CSS3
+including: selectors, specificity, generated content, media queries, debugging,
+colors,...
